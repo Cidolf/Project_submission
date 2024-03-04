@@ -6,7 +6,7 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 # Load Data from CSV
-url = https://raw.githubusercontent.com/Cidolf/Project_submission/main/dashboard/data_ecommerce.csv
+url = 'https://raw.githubusercontent.com/Cidolf/Project_submission/main/dashboard/data_ecommerce.csv'
 data_ecommerce_df = pd.read_csv(url)
 
 # Data Preparation
